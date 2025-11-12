@@ -1,0 +1,81 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+*.env
+.env.*
+*venv*
+backend/venv/
+
+# Django / project artifacts
+*.log
+backend/data/db.sqlite3
+backend/data/db.sqlite3-journal
+backend/media/
+backend/staticfiles/
+local_settings.py
+
+# Test / coverage
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+.tox/
+.nox/
+htmlcov/
+
+# IDE / Editor
+.idea/
+*.iml
+.vs/
+.vscode/
+.history/
+
+# Node
+node_modules/
+
+# Docker overrides
+docker-compose.override.yml
+
+
