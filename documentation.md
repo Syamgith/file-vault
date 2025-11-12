@@ -1,4 +1,4 @@
-# Abnormal File Vault - Features Documentation
+# File Vault - Features Documentation
 
 This document describes the three implemented features for the Abnormal File Vault API.
 
@@ -316,6 +316,7 @@ curl -X GET http://localhost:8000/api/files/storage_stats/ \
 ## Running All Tests
 
 **Test Suite:** All 53 tests passing ✅
+
 - 8 FileDeduplicationTests
 - 23 SearchAndFilteringTests
 - 7 RateLimitTests

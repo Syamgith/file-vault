@@ -1,4 +1,4 @@
-# Abnormal File Vault
+# File Vault
 
 A Django-based file management application designed for efficient file handling and storage.
 

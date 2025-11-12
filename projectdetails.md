@@ -1,4 +1,4 @@
-Abnormal File Vault – API Product
+File Vault – API Product
 
 Requirements
 
